@@ -19,3 +19,4 @@ The results of experiments on horse2zebra datasets. The generated images by meth
 ![results.jpg](https://s2.loli.net/2023/02/27/bdkpyoFOuCVEGXl.jpg)
 
 # Citation
+Xue Y, Zhang Y, Neri F. A Method based on Evolutionary Algorithms and Channel Attention Mechanism to Enhance Cycle Generative Adversarial Network Performance for Image Translation[J]. International Journal of Neural Systems, 2023: 2350026-2350026.
